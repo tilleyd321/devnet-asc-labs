@@ -1,0 +1,4 @@
+no logging console
+logging buffer 8000
+do sho ip int b
+
